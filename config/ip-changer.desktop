@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=ip_changer
+Exec=gnome-terminal -t "Ip_Changer" --geometry=600x630 -e "bash -c '/opt/ip_changer/ip_changer.sh';-bash"
+Icon=/opt/ip_changer/img.jpg
+Terminal=true
+Type=Application
+StartupNotify=false
